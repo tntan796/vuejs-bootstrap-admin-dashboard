@@ -612,15 +612,15 @@ babel-plugin-syntax-async-generators@^6.5.0:
 
 babel-plugin-syntax-class-properties@^6.8.0:
   version "6.13.0"
-  resolved "http://registry.npmjs.org/babel-plugin-syntax-class-properties/-/babel-plugin-syntax-class-properties-6.13.0.tgz#d7eb23b79a317f8543962c505b827c7d6cac27de"
+  resolved "https://registry.npmjs.org/babel-plugin-syntax-class-properties/-/babel-plugin-syntax-class-properties-6.13.0.tgz#d7eb23b79a317f8543962c505b827c7d6cac27de"
 
 babel-plugin-syntax-decorators@^6.13.0:
   version "6.13.0"
-  resolved "http://registry.npmjs.org/babel-plugin-syntax-decorators/-/babel-plugin-syntax-decorators-6.13.0.tgz#312563b4dbde3cc806cee3e416cceeaddd11ac0b"
+  resolved "https://registry.npmjs.org/babel-plugin-syntax-decorators/-/babel-plugin-syntax-decorators-6.13.0.tgz#312563b4dbde3cc806cee3e416cceeaddd11ac0b"
 
 babel-plugin-syntax-dynamic-import@^6.18.0:
   version "6.18.0"
-  resolved "http://registry.npmjs.org/babel-plugin-syntax-dynamic-import/-/babel-plugin-syntax-dynamic-import-6.18.0.tgz#8d6a26229c83745a9982a441051572caa179b1da"
+  resolved "https://registry.npmjs.org/babel-plugin-syntax-dynamic-import/-/babel-plugin-syntax-dynamic-import-6.18.0.tgz#8d6a26229c83745a9982a441051572caa179b1da"
 
 babel-plugin-syntax-exponentiation-operator@^6.8.0:
   version "6.13.0"
@@ -628,7 +628,7 @@ babel-plugin-syntax-exponentiation-operator@^6.8.0:
 
 babel-plugin-syntax-jsx@^6.18.0:
   version "6.18.0"
-  resolved "http://registry.npmjs.org/babel-plugin-syntax-jsx/-/babel-plugin-syntax-jsx-6.18.0.tgz#0af32a9a6e13ca7a3fd5069e62d7b0f58d0d8946"
+  resolved "https://registry.npmjs.org/babel-plugin-syntax-jsx/-/babel-plugin-syntax-jsx-6.18.0.tgz#0af32a9a6e13ca7a3fd5069e62d7b0f58d0d8946"
 
 babel-plugin-syntax-object-rest-spread@^6.8.0:
   version "6.13.0"
@@ -1324,9 +1324,9 @@ chalk@^2.4.1, chalk@^2.4.2:
     escape-string-regexp "^1.0.5"
     supports-color "^5.3.0"
 
-chart.js@^2.8.0:
-  version "2.8.0"
-  resolved "https://registry.yarnpkg.com/chart.js/-/chart.js-2.8.0.tgz#b703b10d0f4ec5079eaefdcd6ca32dc8f826e0e9"
+chart.js@^2.9.4:
+  version "2.9.4"
+  resolved "https://registry.yarnpkg.com/chart.js/-/chart.js-2.9.4.tgz#0827f9563faffb2dc5c06562f8eb10337d5b9684"
   dependencies:
     chartjs-color "^2.1.0"
     moment "^2.10.2"
